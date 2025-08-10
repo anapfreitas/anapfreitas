@@ -5,7 +5,7 @@
 <h1 align="center">Oi! Eu sou a Ana Paula 👋</h1>
 
 <p align="center">
-  Desenvolvedora Full Stack • React Native • Firebase • Node.js • Python • Laravel  
+  Desenvolvedora Full Stack
 </p>
 
 ## Sobre mim
