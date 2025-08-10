@@ -11,7 +11,7 @@
 ## Sobre mim
 
 <div align="right">
-  <img src="https://media.tenor.com/fQ-XKp8aGY8AAAAM/anime-spell.gif" alt="Frieren conjurando magia" width="300">
+  <img src="https://media.tenor.com/fQ-XKp8aGY8AAAAM/anime-spell.gif" alt="Frieren conjurando magia" width="150">
 </div>
 
 - Apaixonada por **anime** e **tecnologia** — sim, eu sou do time que mergulha em docs e maratona de temporada nova no mesmo dia.  
