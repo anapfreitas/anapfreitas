@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/lNPdDjnhsMUAAAAM/frieren-frieren-beyond-journey%27s-end.gif" alt="Frieren pensando - banner" width="50%"/>
+  <img src="https://media.tenor.com/lNPdDjnhsMUAAAAM/frieren-frieren-beyond-journey%27s-end.gif" alt="Frieren pensando - banner" width="30%"/>
 </p>
 
 <h1 align="center">Oi! Eu sou a Ana Paula 👋</h1>
