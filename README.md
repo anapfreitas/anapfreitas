@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/lNPdDjnhsMUAAAAM/frieren-frieren-beyond-journey%27s-end.gif" alt="Frieren pensando - banner" width="100%"/>
+  <img src="https://media.tenor.com/lNPdDjnhsMUAAAAM/frieren-frieren-beyond-journey%27s-end.gif" alt="Frieren pensando - banner" width="50%"/>
 </p>
 
 <h1 align="center">Oi! Eu sou a Ana Paula 👋</h1>
@@ -26,10 +26,6 @@
 **Front-end:** React, React Native (Expo), Vite, Tailwind  
 **Back-end:** Node.js (Express), Laravel, Spring Boot  
 **Banco de Dados:** Firebase (Auth/Firestore/Storage), MySQL, SQLite  
-
-<p align="center">
-  <img src="https://media.tenor.com/nkXJ5AitdvEAAAAM/frieren-waving-stark-waving.gif" alt="Frieren acenando" width="260">
-</p>
 
 ---
 
