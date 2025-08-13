@@ -20,15 +20,6 @@
 
 ---
 
-## Tecnologias
-
-**Linguagens:** JavaScript/TypeScript, Python, PHP, Java, C  
-**Front-end:** React, React Native (Expo), Vite, Tailwind  
-**Back-end:** Node.js (Express), Laravel, Spring Boot  
-**Banco de Dados:** Firebase (Auth/Firestore/Storage), MySQL, SQLite  
-
----
-
 ## Contato
 
 - **E-mail:** anapssfreitas@gmail.com  
